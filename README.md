@@ -9,6 +9,7 @@
 ### I installed following modules:
 
 ```ngMeta
+ sudo apt-get install pip3
  pip3 install BeautifullSoup 
  pip3 install requests 
 ```
