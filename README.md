@@ -7,6 +7,9 @@
 
 
 ### I installed following modules:
-'''ngMeta  
-pip3 install BeautifullSoup 
- pip3 install requests '''
+
+```ngMeta
+ pip3 install BeautifullSoup 
+ pip3 install requests 
+```
+
