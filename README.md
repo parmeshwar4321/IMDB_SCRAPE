@@ -1,5 +1,5 @@
 # web_scraping
-#### i scraped data of  Top 250 Indian movies of Imdb website
+#### i have scraped data of  Top 250 Indian movies of Imdb website
 
 # details
 #### basically i used beautifulsoup module from Bs4 Library and to fetched data of any websites requests
